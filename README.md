@@ -1,4 +1,4 @@
-# Self-Driving Car over rc car 1/10 scale
+# Self-Driving Car (Over RC-Car 1:10 scale)
 
 # Introduction
 This project pretend to modify an existent rc car, replacing and adding some parts to crate a complete platform to develop and test algoritms related with self-driving car.
